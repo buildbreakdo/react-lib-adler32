@@ -1,5 +1,6 @@
 {
   "name": "react-lib-adler32",
+  "license": "MIT",
   "version": "1.0.2",
   "description": "Reacts adler32 implementation ported to an npm package for stability and ease of consumption.",
   "main": "adler32.js",
